@@ -1,0 +1,13 @@
+# Node
+frontend/node_modules
+frontend/dist
+
+# Rails
+backend/log/*
+backend/tmp/*
+backend/.env
+backend/config/master.key
+backend/db/*.sqlite3
+
+# OS
+.DS_Store
