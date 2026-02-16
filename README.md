@@ -168,6 +168,24 @@ This project demonstrates the ability to design and build **AI-integrated SaaS s
 
 ---
 
+## 🔑 Demo Credentials (For Evaluation Only)
+
+You may use the following demo accounts to explore the system:
+
+### 👑 Admin
+Email: admin@gmail.com
+Password: password123
+
+### 🛠 Agent
+Email: agent@gmail.com
+Password: password123
+
+### 👤 Customer
+Email: customer@gmail.com
+Password: password123
+
+---
+
 ## 📄 License
 
 This project is for portfolio and demonstration purposes.
