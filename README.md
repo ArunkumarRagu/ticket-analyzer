@@ -186,6 +186,13 @@ Password: password123
 
 ---
 
+## 🌐 Live Demo
+
+Frontend: https://ticket-analyzer.vercel.app/
+Backend API: https://ticket-analyzer.onrender.com/
+
+---
+
 ## 📄 License
 
 This project is for portfolio and demonstration purposes.
